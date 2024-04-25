@@ -1,5 +1,5 @@
 # NeuralSDE
-A project based on the article [Robust Pricing and Hedging via Neural SDEs](https://arxiv.org/abs/2007.04154), that implements the main ideas developed and reproduces its results. The whole work has been carried out in Python, with PyTorch.
+A project based on the article [Robust Pricing and Hedging via Neural SDEs](https://arxiv.org/abs/2007.04154), that implements the main ideas developed and reproduces its results. The whole work has been carried out in Python, with PyTorch, in collaboration with Anna Liffran.
 
 ## Architecture of the project
 
