@@ -10,7 +10,7 @@ The file `basic_models.py` has two goals. It both helped at generating the data 
 The `report` folder contains four files:
 1. `documentation.pdf` refers to the report that explains the theoretical framework, the methodology as well as the implementation and the results achieved.
 2. `presentation.pdf` is a beamer that was displayed during the defense of this project.
-3. `documentation_tex.zip` and `presentation_tex.zip` gather the source LaTeX files of both the documentation and the presentation.
+3. `documentation_latex.zip` and `presentation_latex.zip` gather the source LaTeX files of both the documentation and the presentation.
 
 The `data` folder contains three files:
 1. `generate_data.ipynb`: Script that generate the data I used.
